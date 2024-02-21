@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cbmSD")(type "KiCad")(uri "${KIPRJMOD}/Libs/cbmSD.pretty")(options "")(descr ""))
+)
