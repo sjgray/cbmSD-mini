@@ -34,10 +34,15 @@ Status
 ------
 
  V1.0: Was the first version for prototyping. It had a few errors.       
+
  V1.1: Removed IEC port and AUX header. IEEE only for PET/CBM users.
-       Grbers sent to JLCPCB on 2021-05-14.
+       Gerbers sent to JLCPCB on 2021-05-14.
+       Board built and verified working with one small fix.
+
  V1.2: Fix trace short on LED. Remove 74125 which is not reqired
        for IEEE. Update design for Kicad7.
+       Gerbers sent to JLCPCB on 2024-02-21.
+       Board built and verified working 2024-03-17
 
 Steve
-2024-02-21
+2024-03-18
