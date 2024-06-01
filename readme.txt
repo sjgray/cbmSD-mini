@@ -1,8 +1,6 @@
 cbmSD-mini - SD Card Drive for Commodore Computers with IEEE
 ============================================================
 
-Webpage: http://www.6502.org/users/sjgray/projects/cbmsd/index.html
-
 The goal of this project is to create a free open-source
 disk drive solution that is easy to build using all
 thru-hole parts plus the use of a common inexpensive SD
@@ -17,6 +15,7 @@ pass-thru to add additional drives if you need.
 You will need a simple cassette port power plug or you can
 power it with a standard 5V adapter with barrel jack.
 
+
 Features
 --------
 
@@ -28,6 +27,13 @@ Features
 - Two Power headers for input or output (to additional
   cbmSD-mini units.
 - Mounting holes for future 3D case.
+
+
+Project Page
+------------
+
+http://www.cbmsteve.ca/cbmsd/index.html
+
 
 
 Status
