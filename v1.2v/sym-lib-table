@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "psdp24-rescue")(type "Legacy")(uri "${KIPRJMOD}/psdp24-rescue.lib")(options "")(descr ""))
+  (lib (name "eilers")(type "Legacy")(uri "${KIPRJMOD}/eilers.lib")(options "")(descr ""))
+  (lib (name "CBM-SD-rescue")(type "Legacy")(uri "${KIPRJMOD}/CBM-SD-rescue.lib")(options "")(descr ""))
+  (lib (name "user_port_con")(type "Legacy")(uri "${KIPRJMOD}/Libs/user_port_con.lib")(options "")(descr ""))
+  (lib (name "cbm")(type "Legacy")(uri "${KIPRJMOD}/Libs/cbm.lib")(options "")(descr ""))
+)

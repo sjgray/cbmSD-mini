@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cbmSD")(type "KiCad")(uri "${KIPRJMOD}/Libs/cbmSD.pretty")(options "")(descr ""))
+  (lib (name "eilers4")(type "KiCad")(uri "${KIPRJMOD}/eilers4.pretty")(options "")(descr ""))
+)
