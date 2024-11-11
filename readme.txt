@@ -25,7 +25,7 @@ Features
 - SD module can be mounted on header or extended via wires.
 - Reset switch.
 - Two Power headers for input or output (to additional
-  cbmSD-mini units.
+  cbmSD-mini units).
 - Mounting holes for future 3D case.
 
 
@@ -39,13 +39,15 @@ http://www.cbmsteve.ca/cbmsd/index.html
 Status
 ------
 
- V1.0: Was the first version for prototyping. It supported IEEE and IEC
-       like the PETSD+. 
- V1.1: Removed IEC port and AUX header. IEEE only for PET/CBM users.
-       Gerbers sent to JLCPCB on 2021-05-14.
- V1.2: Fix trace short on LED. Remove 74125 which is not reqired
-       for IEEE. Update design for Kicad7.
-       Gerbers sent to JLCPCB on 2024-02-21.
+ cbmSD      1.0:  Was the first version for prototyping. It supported IEEE and IEC
+                  like the PETSD+. 
+ cbmSD-mini 1.1:  Removed IEC port and AUX header. IEEE only for PET/CBM users.
+                  Gerbers sent to JLCPCB on 2021-05-14.
+ cbmSD-mini 1.2:  Fix trace short on LED. Remove 74125 which is not reqired
+                  for IEEE. Update design for Kicad7.
+                  Gerbers sent to JLCPCB on 2024-02-21.
+ cmmSD-mini 1.2v  Add vertical mounting option.
+                  Gerbers sent to JLCPCB on 2024-07-30.
 
 Steve
-2024-02-21
+2024-11-11
